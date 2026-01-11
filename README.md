@@ -39,6 +39,7 @@ I create free alternatives to expensive services. Every tool I build is open sou
 
 | Repository | Description | Status |
 |------------|-------------|--------|
+| [**intel-mission-control**](https://github.com/DeadManOfficial/intel-mission-control) | NASA-style autonomous intelligence gathering | ✅ Active |
 | [**claude-canvas**](https://github.com/DeadManOfficial/claude-canvas) | External monitor for Claude Code | ✅ Active |
 | [**AI-Updates**](https://github.com/DeadManOfficial/AI-Updates) | Daily AI intelligence briefs | 📰 Daily |
 
