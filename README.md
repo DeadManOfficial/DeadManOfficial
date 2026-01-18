@@ -10,19 +10,15 @@
 
 <br><br>
 
-<!-- Stats Row -->
-<img src="https://github-readme-stats.vercel.app/api?username=DeadManOfficial&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DeadManOfficial&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=6e7681" height="165" />
+<!-- Stats Row - Using verified working instances -->
+<a href="https://github.com/DeadManOfficial">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DeadManOfficial&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" height="165" />
+</a>
+<a href="https://github.com/DeadManOfficial">
+  <img src="https://streak-stats.demolab.com?user=DeadManOfficial&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=6e7681" height="165" />
+</a>
 
 <br><br>
-
-<!-- 3D Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</picture>
-
-<br>
 
 <!-- Deployed Systems -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=58a6ff" width="100%" />
