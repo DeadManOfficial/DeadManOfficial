@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DeadManOfficial&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" height="165" />
 </a>
 <a href="https://github.com/DeadManOfficial">
-  <img src="https://streak-stats.demolab.com?user=DeadManOfficial&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=6e7681" height="165" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=DeadManOfficial&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=6e7681" height="165" />
 </a>
 
 <br><br>
