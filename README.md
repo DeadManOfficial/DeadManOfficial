@@ -2,10 +2,11 @@
 
 # DEADMAN
 
-### AI Infrastructure Engineer | Open Source Developer | Intelligence Systems Architect
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=AI+Infrastructure+Engineer;Open+Source+Developer;Intelligence+Systems+Architect;Building+Free+Alternatives;Zero+Cost.+Maximum+Impact." alt="Typing SVG" /></a>
 
 [![GitHub followers](https://img.shields.io/github/followers/DeadManOfficial?style=for-the-badge&logo=github&color=181717)](https://github.com/DeadManOfficial)
 [![Profile Views](https://komarev.com/ghpvc/?username=DeadManOfficial&style=for-the-badge&color=blueviolet)](https://github.com/DeadManOfficial)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/DeadManOfficial)
 
 ---
 
@@ -23,7 +24,47 @@
 
 ---
 
-## Why Follow This Profile?
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeadManOfficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadManOfficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeadManOfficial&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DeadManOfficial&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎵 Now Playing
+
+<div align="center">
+
+[![Spotify](https://novatorem-deadmanofficial.vercel.app/api/spotify)](https://open.spotify.com/user/deadmanofficial)
+
+</div>
+
+---
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 💡 Why Follow This Profile?
 
 | What You Get | The Value |
 |--------------|-----------|
@@ -34,7 +75,7 @@
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### Token Optimization - Save 30-50% on AI API Costs
 
@@ -90,7 +131,7 @@ nearby = db.find_nearest(lat=37.7749, lon=-122.4194, limit=5)
 
 ---
 
-## All Repositories
+## 📁 All Repositories
 
 ### Core Infrastructure
 
@@ -117,19 +158,40 @@ nearby = db.find_nearest(lat=37.7749, lon=-122.4194, limit=5)
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-```
-Languages      Python • TypeScript • Lua
-AI/ML          PyTorch • CUDA 12.8 • Claude API • GPT-4 API
-Scraping       Selenium • Playwright • cloudscraper • BeautifulSoup
-Infrastructure Flask • SocketIO • SQLite • asyncio
-Standards      NASA NPR 7150.2 • GSD Meta-Prompting Framework
-```
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+![Claude](https://img.shields.io/badge/Claude_API-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
 
 ---
 
-## Philosophy
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeadManOfficial&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 💭 Philosophy
 
 ```
 BUILD > BUY
@@ -150,5 +212,10 @@ If it's complicated, I simplify it.
 *"The creation and utilization of something free is way more practical than paying for it."*
 
 [![GitHub](https://img.shields.io/badge/Follow_@DeadManOfficial-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeadManOfficial)
+[![Twitter](https://img.shields.io/badge/@DeadManAI-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DeadManAI)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer)
 
 </div>
