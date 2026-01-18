@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=If+it+costs+money%2C+I+build+a+free+alternative.;If+it's+closed+source%2C+I+open+it+up.;If+it's+complicated%2C+I+simplify+it.;%E2%9A%A1+AI+Infrastructure+Engineer;%F0%9F%9A%80+Building+Free+Alternatives;%F0%9F%94%A5+Zero+Cost.+Maximum+Impact." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=If+it+costs+money%2C+I+build+a+free+alternative.;If+it's+closed+source%2C+I+open+it+up.;If+it's+complicated%2C+I+simplify+it." alt="Philosophy" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=500&lines=%E2%9A%A1+AI+Infrastructure+Engineer;%F0%9F%9A%80+Open+Source+Developer;%F0%9F%94%A5+Zero+Cost.+Maximum+Impact." alt="Roles" /></a>
 
 <br>
 
