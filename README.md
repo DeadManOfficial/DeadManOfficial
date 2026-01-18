@@ -1,25 +1,22 @@
 <div align="center">
 
-```
-████████████████████████████████████████████████████████████████████████████████
-██                                                                            ██
-██    ▓█████▄ ▓█████ ▄▄▄      ▓█████▄  ███▄ ▄███▓ ▄▄▄       ███▄    █        ██
-██    ▒██▀ ██▌▓█   ▀▒████▄    ▒██▀ ██▌▓██▒▀█▀ ██▒▒████▄     ██ ▀█   █        ██
-██    ░██   █▌▒███  ▒██  ▀█▄  ░██   █▌▓██    ▓██░▒██  ▀█▄  ▓██  ▀█ ██▒       ██
-██    ░▓█▄   ▌▒▓█  ▄░██▄▄▄▄██ ░▓█▄   ▌▒██    ▒██ ░██▄▄▄▄██ ▓██▒  ▐▌██▒       ██
-██    ░▒████▓ ░▒████▒▓█   ▓██▒░▒████▓ ▒██▒   ░██▒ ▓█   ▓██▒▒██░   ▓██░       ██
-██                                                                            ██
-██                        [ BUILD > BUY ]                                     ██
-██                                                                            ██
-████████████████████████████████████████████████████████████████████████████████
-```
+<!-- Animated Glitch Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,50:161b22,100:0d1117&text=DEADMAN&fontColor=58a6ff&animation=fadeIn&fontSize=80&fontAlignY=35&desc=BUILD%20%3E%20BUY&descSize=20&descAlignY=55" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=INITIALIZING+DEADMAN+SYSTEMS...;LOADING+FREE+ALTERNATIVES...;BYPASSING+EXPENSIVE+SERVICES...;SYSTEM+READY." />
+<!-- Neon Typing Effect -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%9A%A1+FREE+PRODUCTION-READY+ALTERNATIVES+%E2%9A%A1;%F0%9F%94%A5+REPLACING+EXPENSIVE+WITH+POWERFUL+%F0%9F%94%A5" />
 
-<br>
+<br><br>
 
+<!-- Stats Row -->
+<img src="https://github-readme-stats.vercel.app/api?username=DeadManOfficial&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DeadManOfficial&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=6e7681" height="165" />
+
+<br><br>
+
+<!-- 3D Contribution Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
@@ -27,52 +24,62 @@
 
 <br>
 
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                                              ┃
-┃  > MISSION: Build free, production-ready alternatives                        ┃
-┃  > STATUS:  Active                                                           ┃
-┃  > COST:    $0                                                               ┃
-┃                                                                              ┃
-┃  ┌─────────────────────────────────────────────────────────────────────────┐ ┃
-┃  │ DEPLOYED SYSTEMS                                                        │ ┃
-┃  ├─────────────────────────────────────────────────────────────────────────┤ ┃
-┃  │ token-optimization ............ Save 30-50% on AI API costs             │ ┃
-┃  │ IntelligenceCommand ........... 5 autonomous AI agents                  │ ┃
-┃  │ TheUnseen Framework ........... 100-agent network architecture          │ ┃
-┃  │ claude-canvas ................. External monitor for Claude Code        │ ┃
-┃  │ costco-warehouse-intel ........ 643 warehouses database (FREE)          │ ┃
-┃  │ intel-mission-control ......... NASA-style operations dashboard         │ ┃
-┃  └─────────────────────────────────────────────────────────────────────────┘ ┃
-┃                                                                              ┃
-┃  ┌─────────────────────────────────────────────────────────────────────────┐ ┃
-┃  │ ARSENAL                                                                 │ ┃
-┃  ├─────────────────────────────────────────────────────────────────────────┤ ┃
-┃  │ LANG: Python · TypeScript · Lua · Rust · Go                             │ ┃
-┃  │ AI:   Claude · OpenAI · Gemini · PyTorch · CUDA                         │ ┃
-┃  │ OPS:  Docker · Kubernetes · AWS · Vercel · Cloudflare                   │ ┃
-┃  └─────────────────────────────────────────────────────────────────────────┘ ┃
-┃                                                                              ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+<!-- Deployed Systems -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=58a6ff" width="100%" />
 
-<br>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/token--optimization-Save_30--50%25_on_AI_API_costs-58a6ff?style=for-the-badge&labelColor=0d1117" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/IntelligenceCommand-5_Autonomous_AI_Agents-58a6ff?style=for-the-badge&labelColor=0d1117" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/TheUnseen_Framework-100--Agent_Network-58a6ff?style=for-the-badge&labelColor=0d1117" />
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/claude--canvas-External_Monitor-58a6ff?style=for-the-badge&labelColor=0d1117" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/costco--warehouse--intel-643_Warehouses_FREE-58a6ff?style=for-the-badge&labelColor=0d1117" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/intel--mission--control-NASA_Style_Dashboard-58a6ff?style=for-the-badge&labelColor=0d1117" />
+</td>
+</tr>
+</table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=58a6ff" width="100%" />
+
+<br><br>
+
+<!-- Tech Stack -->
+<img src="https://skillicons.dev/icons?i=python,typescript,rust,go,lua,docker,kubernetes,aws,pytorch,tensorflow&theme=dark&perline=10" />
+
+<br><br>
+
+<!-- Spotify -->
 <a href="https://open.spotify.com/user/3133qm4wimam7vxe3kttlljjcld4">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3133qm4wimam7vxe3kttlljjcld4&cover_image=true&theme=default&bar_color=53b14f" width="300" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3133qm4wimam7vxe3kttlljjcld4&cover_image=true&theme=novatorem&bar_color=58a6ff" width="350" />
 </a>
 
 <br><br>
 
-```
-"The creation and utilization of something free
- is way more practical than paying for it."
-                                    — DEADMAN
-```
+<!-- Philosophy -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20creation%20and%20utilization%20of%20something%20free%20is%20way%20more%20practical%20than%20paying%20for%20it.&author=DEADMAN" width="700" />
+
+<br><br>
+
+<!-- Social Links -->
+[![GitHub](https://img.shields.io/badge/GitHub-DeadManOfficial-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeadManOfficial)
+[![X](https://img.shields.io/badge/X-@DeadManAI-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/DeadManAI)
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-DeadManOfficial-000?style=flat-square&logo=github)](https://github.com/DeadManOfficial)
-[![X](https://img.shields.io/badge/X-@DeadManAI-000?style=flat-square&logo=x)](https://twitter.com/DeadManAI)
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:161b22,100:0d1117&section=footer" width="100%" />
 
 </div>
