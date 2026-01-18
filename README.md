@@ -2,15 +2,7 @@
 
 <div align="center">
 
-```
-If it costs money, I build a free alternative.
-If it's closed source, I open it up.
-If it's complicated, I simplify it.
-```
-
-<br>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%A5+AI+Infrastructure+Engineer+%7C+Open+Source+Developer;%F0%9F%9A%80+Building+Free+Alternatives+to+Expensive+Services;%E2%9A%A1+Zero+Cost.+Maximum+Impact.+Production+Ready." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=If+it+costs+money%2C+I+build+a+free+alternative.;If+it's+closed+source%2C+I+open+it+up.;If+it's+complicated%2C+I+simplify+it.;%E2%9A%A1+AI+Infrastructure+Engineer;%F0%9F%9A%80+Building+Free+Alternatives;%F0%9F%94%A5+Zero+Cost.+Maximum+Impact." alt="Typing SVG" /></a>
 
 <br>
 
