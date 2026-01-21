@@ -61,6 +61,20 @@ Building free, production-ready alternatives to expensive AI services.
 
 </td>
 </tr>
+<tr>
+<td>
+
+**[DeadManIntelligenceCommand](https://github.com/DeadManOfficial/DeadManIntelligenceCommand)**<br>
+<sub>5 AI agents + token optimization + mission control</sub>
+
+</td>
+<td>
+
+**[costco-warehouse-intelligence](https://github.com/DeadManOfficial/costco-warehouse-intelligence)**<br>
+<sub>FREE Costco database + Markdown Hunter app</sub>
+
+</td>
+</tr>
 </table>
 
 ---
