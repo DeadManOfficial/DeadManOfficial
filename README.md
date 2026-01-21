@@ -1,72 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,50:161b22,100:0d1117&text=DEADMAN&fontColor=58a6ff&animation=fadeIn&fontSize=80&fontAlignY=35&desc=BUILD%20%3E%2[...]">
+# DeadMan
+
+**AI Infrastructure Engineer**
+
+Building free, production-ready alternatives to expensive AI services.
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&line[...]">
+[![GitHub](https://img.shields.io/badge/DeadManOfficial-181717?style=flat&logo=github)](https://github.com/DeadManOfficial)
+[![npm](https://img.shields.io/badge/@officialdeadman-CB3837?style=flat&logo=npm)](https://www.npmjs.com/~officialdeadman)
+[![X](https://img.shields.io/badge/@DeadManAI-000000?style=flat&logo=x)](https://twitter.com/DeadManAI)
 
-<br><br>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DeadManOfficial&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rin[...]">
-<img src="https://streak-stats.demolab.com/?user=DeadManOfficial&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6f[...]">
-
-<br><br>
+</div>
 
 ---
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/token--optimization-Save_30--50%25_on_AI_API_costs-58a6ff?style=for-the-badge&labelColor=0d1117" />
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/IntelligenceCommand-5_Autonomous_AI_Agents-58a6ff?style=for-the-badge&labelColor=0d1117" />
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/TheUnseen_Framework-100--Agent_Network-58a6ff?style=for-the-badge&labelColor=0d1117" />
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/claude--canvas-External_Monitor-58a6ff?style=for-the-badge&labelColor=0d1117" />
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/costco--warehouse--intel-643_Warehouses_FREE-58a6ff?style=for-the-badge&labelColor=0d1117" />
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/intel--mission--control-NASA_Style_Dashboard-58a6ff?style=for-the-badge&labelColor=0d1117" />
-</td>
-</tr>
-</table>
+### Featured
+
+| Project | Description |
+|---------|-------------|
+| **[mcp-auditor](https://github.com/DeadManOfficial/mcp-auditor)** | 35-tool forensic security & compliance auditor for Claude |
+| **[token-optimization](https://github.com/DeadManOfficial/token-optimization)** | Save 30-50% on OpenAI & Anthropic API costs |
+| **[claude-canvas](https://github.com/DeadManOfficial/claude-canvas)** | External monitor for Claude Code — see AI work in real-time |
+| **[AI-Updates](https://github.com/DeadManOfficial/AI-Updates)** | Daily AI intelligence briefs — no noise, just signal |
 
 ---
 
-<br>
+### Stack
 
-<img src="https://skillicons.dev/icons?i=python,typescript,rust,go,lua,docker,kubernetes,aws,pytorch,tensorflow&theme=dark&perline=10" />
+```
+Python · TypeScript · Rust · Go
+Docker · Kubernetes · AWS
+PyTorch · TensorFlow
+```
 
-<br><br>
+---
 
-<a href="https://open.spotify.com/user/3133qm4wimam7vxe3kttlljjcld4">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3133qm4wimam7vxe3kttlljjcld4&cover_image=true&theme=novatorem&bar_color=58a6ff" width="350" />
-</a>
-
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20creation%20and%20utilization%20of%20something%20free%20is%20way%20more%20practical%20than%20paying%20fo[...]">
-
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-DeadManOfficial-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeadManOfficial)
-[![X](https://img.shields.io/badge/X-@DeadManAI-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/DeadManAI)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:161b22,100:0d1117&section=footer" width="100%" />
-
-<!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 - The Omniscient Auditor](https://github.com/DeadManOfficial/mcp-auditor/releases/tag/v1.0.0) in [DeadManOfficial/mcp-auditor](https://github.com/DeadManOfficial/mcp-auditor)
-<!--END_SECTION:activity-->
-
+<div align="center">
+<sub>BUILD > BUY</sub>
 </div>
