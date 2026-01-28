@@ -1,13 +1,12 @@
-```
-██████╗ ███████╗ █████╗ ██████╗ ███╗   ███╗ █████╗ ███╗   ██╗
-██╔══██╗██╔════╝██╔══██╗██╔══██╗████╗ ████║██╔══██╗████╗  ██║
-██║  ██║█████╗  ███████║██║  ██║██╔████╔██║███████║██╔██╗ ██║
-██║  ██║██╔══╝  ██╔══██║██║  ██║██║╚██╔╝██║██╔══██║██║╚██╗██║
-██████╔╝███████╗██║  ██║██████╔╝██║ ╚═╝ ██║██║  ██║██║ ╚████║
-╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+<p align="center">
+  <a href="https://github.com/DeadManOfficial">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&repeat=false&width=600&height=60&lines=DEADMAN+%2F%2F+DEATH+INCARNATE" alt="DEADMAN // DEATH INCARNATE"/>
+  </a>
+</p>
 
-**DEADMAN // DEATH INCARNATE**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=500&color=666666&center=true&vCenter=true&width=500&height=30&lines=Security+Research;Autonomous+Systems;ALL+FREE+FOREVER" alt="Typing"/>
+</p>
 
 ---
 
@@ -22,21 +21,7 @@
 
 ---
 
-### Terminal Effects
-
-```bash
-# Run the showcase
-python deadman_terminal.py demo
-
-# Individual effects
-python deadman_terminal.py matrix    # Grayscale matrix rain
-python deadman_terminal.py decrypt   # Movie-style text decrypt
-python deadman_terminal.py logo      # Scanning logo reveal
-python deadman_terminal.py pulse     # Breathing logo animation
-python deadman_terminal.py glitch    # VHS-style glitch text
-python deadman_terminal.py spinners  # Braille/block spinners
-```
-
----
-
-**ALL FREE FOREVER**
+<p align="center">
+  <img src="https://img.shields.io/badge/ALL-FREE-black?style=for-the-badge" alt="FREE"/>
+  <img src="https://img.shields.io/badge/FOREVER-black?style=for-the-badge" alt="FOREVER"/>
+</p>
