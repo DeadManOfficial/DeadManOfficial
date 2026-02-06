@@ -1,70 +1,101 @@
 <div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=DEADMAN&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=e94560)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=DeadManOfficial&theme=radical&border_radius=10&stroke=0&background=1a1a2e&fire=e94560&dates=e94560&sideNums=e94560&currStreakNum=e94560&sideLabels=e94560&ring=e94560" alt="Streak Stats"/>
+  </a>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=e94560&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Security+Researcher+%7C+AI+Engineer+%7C+Open+Source+Creator" alt="Typing SVG"/>
+  <br><br>
+
+  <a href="https://github.com/DeadManOfficial">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,100:1a1a2e&height=180&section=header&text=DEADMAN&fontSize=100&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+  </a>
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=00ff88&center=true&vCenter=true&repeat=false&width=800&height=60&lines=Building+Autonomous+AI+Systems+%7C+Security+Researcher+%7C+Open+Source+Creator" alt="Typing SVG"/>
 
   <img src="https://komarev.com/ghpvc/?username=DeadManOfficial&style=flat-square&color=e94560" alt="Profile Views"/>
+  <img src="https://badges.pear.io/pear-rank-badge.svg?user=DeadManOfficial&theme=radical" alt="Pear Rank"/>
 
 </div>
 
 ---
 
-## 👋 About Me
+<br>
+
+<div align="center">
+
+| 🛡️ 116+ Security Tools | 🤖 27 AI Agents | 📦 18 Public Repos | 🔓 All FREE Forever |
+
+</div>
+
+---
+
+## 👨‍💻 About Me
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  🔐 Security Researcher    🤖 AI Engineer    📦 Open Source  ║
-║  📍 United States    💼 Building autonomous systems           ║
-║  🎯 Mission: Make powerful AI tools FREE for everyone        ║
-╚══════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║    ░▒▓█ ┌─────────────────────────────────────────────────────┐ █▓▒░       ║
+║    ░▒▓█ │  🔐 SECURITY RESEARCHER  │  🤖 AI ENGINEER  │  📦 CREATOR  │ █▓▒░       ║
+║    ░▒▓█ │          Building autonomous systems while you sleep          │ █▓▒░       ║
+║    ░▒▓█ │          💰 30-50% API cost savings on OpenAI/Anthropic       │ █▓▒░       ║
+║    ░▒▓█ │          🎯 100+ research docs │ 50+ AI tools │ ALL FREE    │ █▓▒░       ║
+║    ░▒▓█ └─────────────────────────────────────────────────────┘ █▓▒░       ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-I'm a security researcher and AI engineer focused on **building autonomous systems** that work while you sleep. Creator of the **DeadMan Toolkit** - 50+ free AI tools for developers and researchers.
+I'm a **security researcher** and **AI engineer** obsessed with building autonomous systems that actually work. Every tool I create is **100% free** - no paywalls, no subscriptions, no BS.
 
-- 🛡️ **116+ MCP security tools** built from scratch
-- 🤖 **27 AI agents** for scalable content production
-- 📊 **100+ research documents** following NASA standards
-- 💰 **30-50% API cost savings** on OpenAI/Anthropic solutions
+> *"The best tools are the ones that are free and actually work."*
+
+### 🎯 Current Focus
+- 🔧 Expanding the DeadMan Toolkit (aiming for 100+ tools)
+- 🤖 Training AI agents for autonomous content production
+- 🛡️ Building open-source security research infrastructure
+- 💰 Optimizing LLM API costs for everyone
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔥 Top Picks
+### 🔥 Flagship Tools
 
-| Repo | Description | Stars |
-|------|-------------|-------|
-| [BlackBox](https://github.com/DeadManOfficial/BlackBox) | Autonomous security research platform with 116+ MCP tools | ⭐ |
-| [DeadManAI_Framework_TheUnseen](https://github.com/DeadManOfficial/DeadManAI_Framework_TheUnseen) | 27 AI agents for YouTube production - 60-70% time savings | ⭐ |
-| [costco-warehouse-intelligence](https://github.com/DeadManOfficial/costco-warehouse-intelligence) | FREE database - 643 US Costco locations with GPS, hours, gas prices | ⭐ |
-| [token-optimization](https://github.com/DeadManOfficial/token-optimization) | Save 30-50% on OpenAI/Anthropic API costs | ⭐ |
-| [mcp-auditor](https://github.com/DeadManOfficial/mcp-auditor) | 35-tool forensic security auditor for Claude Code | ⭐ |
+| ⭐ | Project | Description | Built With |
+|----|---------|-------------|------------|
+| ⭐ | [**BlackBox**](https://github.com/DeadManOfficial/BlackBox) | Autonomous security research platform with 116+ MCP tools | Python |
+| ⭐ | [**TheUnseen Framework**](https://github.com/DeadManOfficial/DeadManAI_Framework_TheUnseen) | 27 AI agents for YouTube production - 60-70% time savings | TypeScript |
+| ⭐ | [**Costco Intelligence**](https://github.com/DeadManOfficial/costco-warehouse-intelligence) | FREE 643 US Costco locations database with GPS, hours, gas prices | Python |
+| ⭐ | [**Token Optimizer**](https://github.com/DeadManOfficial/token-optimization) | Save 30-50% on OpenAI/Anthropic API costs | Python |
+| ⭐ | [**MCP Auditor**](https://github.com/DeadManOfficial/mcp-auditor) | 35-tool forensic security auditor for Claude Code | TypeScript |
 
-### 🛠️ AI & Automation
+---
 
-| Repo | Description |
-|------|-------------|
+### 🧠 AI & Automation
+
+| Project | Description |
+|---------|-------------|
 | [AIEvoDev](https://github.com/DeadManOfficial/AIEvoDev) | Self-evolving AI test generator using GPT-4/Gemini + LangChain |
-| [DeadManIntelligenceCommand](https://github.com/DeadManOfficial/DeadManIntelligenceCommand) | 5 AI agents for parallel intelligence gathering |
-| [DeadManUltimateScraper](https://github.com/DeadManOfficial/DeadManUltimateScraper) | 5-layer adaptive fetch stack with TOR + anti-detection |
-| [AI-Updates](https://github.com/DeadManOfficial/AI-Updates) | Automated daily AI intelligence briefs |
+| [Intelligence Command](https://github.com/DeadManOfficial/DeadManIntelligenceCommand) | 5 AI agents for parallel intelligence gathering |
+| [Ultimate Scraper](https://github.com/DeadManOfficial/DeadManUltimateScraper) | 5-layer adaptive fetch stack with TOR + anti-detection |
+| [AI Updates](https://github.com/DeadManOfficial/AI-Updates) | Automated daily AI intelligence briefs |
 
 ### 🎨 Creative & Fun
 
-| Repo | Description |
-|------|-------------|
-| [coffee-vibe-quiz](https://github.com/DeadManOfficial/coffee-vibe-quiz) | Viral personality quiz - "What's Your Coffee Vibe?" |
-| [drunk-text-analyzer](https://github.com/DeadManOfficial/drunk-text-analyzer) | AI-powered regret score & recovery plan analyzer |
-| [deadman-toolkit-demo](https://github.com/DeadManOfficial/deadman-toolkit-demo) | Interactive demo of 50 FREE AI tools |
+| Project | Description |
+|---------|-------------|
+| [Coffee Vibe Quiz](https://github.com/DeadManOfficial/coffee-vibe-quiz) | Viral personality quiz - "What's Your Coffee Vibe?" |
+| [Drunk Text Analyzer](https://github.com/DeadManOfficial/drunk-text-analyzer) | AI-powered regret score & recovery plan |
+| [Toolkit Demo](https://github.com/DeadManOfficial/deadman-toolkit-demo) | Interactive demo of 50 FREE AI tools |
 
-### 💻 Developer Tools
+### 🛠️ Developer Tools
 
-| Repo | Description |
-|------|-------------|
-| [claude-canvas](https://github.com/DeadManOfficial/claude-canvas) | External monitor/canvas for Claude Code |
-| [listingpro-ai](https://github.com/DeadManOfficial/listingpro-ai) | AI-powered marketplace listing optimizer |
-| [llm-chat-app-template](https://github.com/DeadManOfficial/llm-chat-app-template) | LLM chat application template |
+| Project | Description |
+|---------|-------------|
+| [Claude Canvas](https://github.com/DeadManOfficial/claude-canvas) | External monitor/canvas for Claude Code |
+| [ListingPro AI](https://github.com/DeadManOfficial/listingpro-ai) | AI-powered marketplace listing optimizer |
+| [LLM Chat Template](https://github.com/DeadManOfficial/llm-chat-app-template) | Production-ready LLM chat app template |
 
 ---
 
@@ -72,9 +103,15 @@ I'm a security researcher and AI engineer focused on **building autonomous syste
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=DeadManOfficial&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&icon_color=e94560&title_color=e94560" height="180" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DeadManOfficial&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&icon_color=e94560&title_color=00ff88&ring_color=00ff88" height="195" alt="Stats"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadManOfficial&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadManOfficial&layout=donut&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=00ff88&text_color=ffffff" height="195" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeadManOfficial&theme=radical&bg_color=1a1a2e&color=00ff88&line=e94560&point=00ff88&area=true" alt="Activity Graph"/>
 
 </div>
 
@@ -84,28 +121,48 @@ I'm a security researcher and AI engineer focused on **building autonomous syste
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,git,docker&perline=8&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,docker,git,aws,linux&perline=10&theme=dark" alt="Tech Stack"/>
 
 </div>
 
 ```
-Languages:   Python • TypeScript • JavaScript • MDX
-AI/ML:       OpenAI • Anthropic Claude • Gemini • LangChain
-Frameworks:  Next.js • React • Node.js
-Security:    MCP Tools • TOR Integration • Anti-Detection
-DevOps:      Docker • Git • CI/CD
+┌─────────────────────────────────────────────────────────────────────────┐
+│  LANGUAGES:    Python  •  TypeScript  •  JavaScript  •  MDX            │
+│  AI/ML:        OpenAI GPT-4  •  Anthropic Claude  •  Gemini  •  LangChain  │
+│  FRAMEWORKS:   Next.js  •  React  •  Node.js  •  FastAPI               │
+│  SECURITY:     MCP Tools  •  TOR  •  Anti-Detection  •  Audit Tools    │
+│  DEVOPS:       Docker  •  Git  •  CI/CD  •  Cloud Infrastructure       │
+│  DATA:         JSON  •  SQLite  •  Supabase  •  PostgreSQL             │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🎖️ Badges
+## 🏆 Achievements & Badges
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/ALL-FREE-00ff88?style=for-the-badge&logo=free&logoColor=00ff88" alt="All Free"/>
-  <img src="https://img.shields.io/badge/OPEN-SOURCE-00ff88?style=for-the-badge&logo=opensourceinitiative&logoColor=00ff88" alt="Open Source"/>
-  <img src="https://img.shields.io/badge/AI-POWERED-00ff88?style=for-the-badge&logo=ai&logoColor=00ff88" alt="AI Powered"/>
-  <img src="https://img.shields.io/badge/SECURITY-FIRST-00ff88?style=for-the-badge&logo=security&logoColor=00ff88" alt="Security First"/>
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80-ALL%20FREE%20FOREVER-00ff88?style=for-the-badge&logo=free&logoColor=00ff88" alt="All Free"/>
+  <img src="https://img.shields.io/badge/%F0%9F%9A%97-OPEN%20SOURCE-00ff88?style=for-the-badge&logo=opensourceinitiative&logoColor=00ff88" alt="Open Source"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A7%AA-AI%20POWERED-00ff88?style=for-the-badge&logo=ai&logoColor=00ff88" alt="AI Powered"/>
+  <img src="https://img.shields.io/badge/%F0%9F%94%92-SECURITY%20FIRST-00ff88?style=for-the-badge&logo=security&logoColor=00ff88" alt="Security First"/>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/%F0%9F%93%9A-116%2B%20TOOLS-e94560?style=for-the-badge" alt="116+ Tools"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96-27%20AI%20AGENTS-e94560?style=for-the-badge" alt="27 Agents"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%9C-100%2B%20DOCS-e94560?style=for-the-badge" alt="100+ Docs"/>
+  <img src="https://img.shields.io/badge/%F0%9F%92%B0-30-50%25%20SAVINGS-e94560?style=for-the-badge" alt="Cost Savings"/>
+
+</div>
+
+---
+
+## 📈 Growth
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=DeadManOfficial&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 
 </div>
 
@@ -116,11 +173,15 @@ DevOps:      Docker • Git • CI/CD
 <div align="center">
 
   <a href="mailto:deadmanposts@gmail.com">
-    <img src="https://img.shields.io/badge/Email-deadmanposts@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Direct-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
   <a href="https://github.com/DeadManOfficial">
-    <img src="https://img.shields.io/badge/GitHub-DeadManOfficial-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://github.com/DeadManOfficial?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-Repos-1a1a2e?style=for-the-badge&logo=github&logoColor=e94560" alt="Explore Repos"/>
   </a>
 
 </div>
@@ -129,6 +190,6 @@ DevOps:      Docker • Git • CI/CD
 
 <div align="center">
 
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer&fontSize=20&fontColor=e94560&animation=fadeIn&text=%F0%9F%9A%80+Built+with+AI+-+Made+FREE+for+Everyone)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:e94560&height=100&section=footer&fontSize=30&fontColor=ffffff&animation=fadeIn&text=%F0%9F%9A%80+BUILT+WITH+AI+-+MADE+FREE+FOR+EVERYONE+%F0%9F%9A%80" alt="Footer"/>
 
 </div>
