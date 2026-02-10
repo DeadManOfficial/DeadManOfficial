@@ -1,105 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,100:00ff88&height=200&section=header&text=DEADMAN&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Security%20Researcher%20%E2%80%A2%20Bug%20Bounty%20Hunter%20%E2%80%A2%20AI%20Engineer&descSize=18&descColor=00ff88&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
 
-<br/>
+```
+ ██████╗ ███████╗ █████╗ ██████╗ ███╗   ███╗ █████╗ ███╗   ██╗
+ ██╔══██╗██╔════╝██╔══██╗██╔══██╗████╗ ████║██╔══██╗████╗  ██║
+ ██║  ██║█████╗  ███████║██║  ██║██╔████╔██║███████║██╔██╗ ██║
+ ██║  ██║██╔══╝  ██╔══██║██║  ██║██║╚██╔╝██║██╔══██║██║╚██╗██║
+ ██████╔╝███████╗██║  ██║██████╔╝██║ ╚═╝ ██║██║  ██║██║ ╚████║
+ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-[![Twitter](https://img.shields.io/badge/@DeadManAI-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DeadManAI)
-[![YouTube](https://img.shields.io/badge/@theofficialdeadman-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@theofficialdeadman)
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/officialdeadman)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/DeadManAI)
-[![Dashboard](https://img.shields.io/badge/Live%20Dashboard-0f0f23?style=for-the-badge&logo=vercel&logoColor=00ff88)](https://deadman-dash.vercel.app)
+**Security Researcher** · **Bug Bounty Hunter** · **AI Engineer**
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+autonomous+security+tools+with+AI;All+free.+All+open+source.+Always." alt="Typing SVG" />
+[![X](https://img.shields.io/badge/@DeadManAI-000?style=flat-square&logo=x&logoColor=fff)](https://x.com/DeadManAI)&nbsp;
+[![HackerOne](https://img.shields.io/badge/HackerOne-1a1a2e?style=flat-square&logo=hackerone&logoColor=fff)](https://hackerone.com/officialdeadman)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-1a1a2e?style=flat-square&logo=youtube&logoColor=fff)](https://youtube.com/@theofficialdeadman)&nbsp;
+[![Dashboard](https://img.shields.io/badge/Ops_Dashboard-1a1a2e?style=flat-square&logo=vercel&logoColor=fff)](https://deadman-dash.vercel.app)
 
 </div>
 
-<br/>
+---
 
-## What I Build
+I build **autonomous security tools** — AI-powered recon, vulnerability discovery, and bug bounty automation. Open source. Free tier only. No billing.
 
-I create **AI-powered security tools** that automate recon, vulnerability discovery, and bug bounty workflows. Everything is open source, everything is free.
+### Core Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Flagship
-
-**[Bounty Engine](https://github.com/DeadManOfficial/bounty-engine)** — Autonomous bug bounty platform with AI-powered orchestration, scanning, and reporting
-
-**[BlackBox](https://github.com/DeadManOfficial/BlackBox)** — Security research platform with 116+ MCP tools
-
-**[DeadMan Tools](https://github.com/DeadManOfficial/deadman-tools)** — CLI recon toolkit with zero dependencies, 10+ service integrations, GitHub Actions CI/CD
-
-**[MCP Auditor](https://github.com/DeadManOfficial/mcp-auditor)** — 35-tool forensic security auditor for Claude Code
-
-</td>
-<td width="50%" valign="top">
+| Project | Description |
+|---------|-------------|
+| **[deadman-tools](https://github.com/DeadManOfficial/deadman-tools)** | CLI security toolkit — recon, health checks, scope pulling, hunt pipeline. GitHub Actions CI/CD. |
+| **[bounty-engine](https://github.com/DeadManOfficial/bounty-engine)** | Autonomous bug bounty platform — orchestrates recon, scanning, and reporting with AI triage. |
+| **[BlackBox](https://github.com/DeadManOfficial/BlackBox)** | Security research platform with 116+ MCP tools for Claude Code. |
+| **[mcp-auditor](https://github.com/DeadManOfficial/mcp-auditor)** | 35-tool forensic security auditor for MCP server configurations. |
+| **[deadman-dash](https://deadman-dash.vercel.app)** | Live ops dashboard — programs, findings, targets, recon triggers. Next.js + Notion. |
 
 ### Research & Intel
 
-**[Intelligence Command](https://github.com/DeadManOfficial/DeadManIntelligenceCommand)** — 5 parallel AI agents for intelligence gathering
+| Project | Description |
+|---------|-------------|
+| **[DeadManIntelligenceCommand](https://github.com/DeadManOfficial/DeadManIntelligenceCommand)** | 5 parallel AI agents for multi-source intelligence gathering. |
+| **[DeadManUltimateScraper](https://github.com/DeadManOfficial/DeadManUltimateScraper)** | 5-layer adaptive web scraper with TOR integration and anti-detection. |
+| **[DeadManAI_Research](https://github.com/DeadManOfficial/DeadManAI_Research)** | 100+ research documents on AI security and penetration testing. |
+| **[token-optimization](https://github.com/DeadManOfficial/token-optimization)** | Reduce LLM API costs 30-50% with token optimization techniques. |
 
-**[Ultimate Scraper](https://github.com/DeadManOfficial/DeadManUltimateScraper)** — 5-layer adaptive scraper with TOR & anti-detection
+### Stack
 
-**[AI Research](https://github.com/DeadManOfficial/DeadManAI_Research)** — 100+ research documents
+```
+Security    Nuclei · Burp Suite · Shodan · HackerOne · Censys
+Languages   Python · TypeScript · Bash
+Infra       AWS EC2 · Vercel · Docker · GitHub Actions
+AI          Claude · Groq · OpenRouter · LangChain
+Frontend    Next.js · Tailwind CSS
+```
 
-**[Dashboard](https://deadman-dash.vercel.app)** — Live ops dashboard tracking programs, findings, targets & recon
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Tech
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0f0f23?style=flat-square&logo=python&logoColor=00ff88)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f0f23?style=flat-square&logo=typescript&logoColor=00ff88)
-![Go](https://img.shields.io/badge/Go-0f0f23?style=flat-square&logo=go&logoColor=00ff88)
-![Next.js](https://img.shields.io/badge/Next.js-0f0f23?style=flat-square&logo=next.js&logoColor=00ff88)
-![FastAPI](https://img.shields.io/badge/FastAPI-0f0f23?style=flat-square&logo=fastapi&logoColor=00ff88)
-![AWS](https://img.shields.io/badge/AWS-0f0f23?style=flat-square&logo=amazonwebservices&logoColor=00ff88)
-![Docker](https://img.shields.io/badge/Docker-0f0f23?style=flat-square&logo=docker&logoColor=00ff88)
-![Vercel](https://img.shields.io/badge/Vercel-0f0f23?style=flat-square&logo=vercel&logoColor=00ff88)
-![Claude](https://img.shields.io/badge/Claude-0f0f23?style=flat-square&logo=anthropic&logoColor=00ff88)
-![Nuclei](https://img.shields.io/badge/Nuclei-0f0f23?style=flat-square&logo=hackthebox&logoColor=00ff88)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0f0f23?style=flat-square&logo=portswigger&logoColor=00ff88)
-![Shodan](https://img.shields.io/badge/Shodan-0f0f23?style=flat-square&logo=shodan&logoColor=00ff88)
-
-</div>
-
-<br/>
-
-## Stats
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DeadManOfficial&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f23&icon_color=00ff88&title_color=00ff88&ring_color=00ff88&text_color=cccccc&rank_icon=github" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeadManOfficial&theme=radical&hide_border=true&background=0f0f23&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&dates=666666" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DeadManOfficial&show_icons=true&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&ring_color=58a6ff&rank_icon=github&hide_title=true" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeadManOfficial&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=4a5568&stroke=1a1a2e" height="160"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeadManOfficial&bg_color=0f0f23&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff88&hide_border=true" width="100%"/>
-
-<br/>
-
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#79](https://github.com/vavkamil/awesome-bugbounty-tools/pull/79) in [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools)
-2. 🚀 Published release [v0.1.0 — Initial Release](https://github.com/DeadManOfficial/bounty-engine/releases/tag/v0.1.0) in [DeadManOfficial/bounty-engine](https://github.com/DeadManOfficial/bounty-engine)
-3. 💪 Opened PR [#6808](https://github.com/github/advisory-database/pull/6808) in [github/advisory-database](https://github.com/github/advisory-database)
-4. 🎉 Merged PR [#5](https://github.com/DeadManOfficial/check/pull/5) in [DeadManOfficial/check](https://github.com/DeadManOfficial/check)
-5. 🎉 Merged PR [#4](https://github.com/DeadManOfficial/check/pull/4) in [DeadManOfficial/check](https://github.com/DeadManOfficial/check)
-<!--END_SECTION:activity-->
-
-![Visitors](https://komarev.com/ghpvc/?username=DeadManOfficial&color=00ff88&style=flat-square&label=profile+views)
+![](https://komarev.com/ghpvc/?username=DeadManOfficial&color=1a1a2e&style=flat-square&label=views)
 
 </div>
