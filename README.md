@@ -93,6 +93,11 @@ I create **AI-powered security tools** that automate recon, vulnerability discov
 
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#79](https://github.com/vavkamil/awesome-bugbounty-tools/pull/79) in [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools)
+2. 🚀 Published release [v0.1.0 — Initial Release](https://github.com/DeadManOfficial/bounty-engine/releases/tag/v0.1.0) in [DeadManOfficial/bounty-engine](https://github.com/DeadManOfficial/bounty-engine)
+3. 💪 Opened PR [#6808](https://github.com/github/advisory-database/pull/6808) in [github/advisory-database](https://github.com/github/advisory-database)
+4. 🎉 Merged PR [#5](https://github.com/DeadManOfficial/check/pull/5) in [DeadManOfficial/check](https://github.com/DeadManOfficial/check)
+5. 🎉 Merged PR [#4](https://github.com/DeadManOfficial/check/pull/4) in [DeadManOfficial/check](https://github.com/DeadManOfficial/check)
 <!--END_SECTION:activity-->
 
 ![Visitors](https://komarev.com/ghpvc/?username=DeadManOfficial&color=00ff88&style=flat-square&label=profile+views)
